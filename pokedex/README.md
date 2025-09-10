@@ -1,0 +1,1 @@
+To run the application, you first need to clone the repository on your computer, then install the npm modules, run the json server, go to the pokedex folder and run the project
